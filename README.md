@@ -1,2 +1,2 @@
-# One project is for Explore Mall in İstnbul Data Anlaysis.
-# Other project is Eda for US Citizens 
+# 1- Customer Shopping EDA project(Used Data is Malls of İstanbul)
+# 2- Analysis of US Citiziens 
